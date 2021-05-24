@@ -2,10 +2,5 @@
   "title": "My First Course",
   "description": "Everything you'd ever want to learn.",
   "courses": [
-    {
-      "course_id": "scene01",
-      "title": "First Scenario",
-      "description": "This is the first, another one will follow"
-    }
   ]
 }
